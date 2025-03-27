@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MayankNinaniya725
+- 👀 I’m interested in AI/ML.
+- 🌱 I’m currently learning android development with dart and django.
+- 💞️ I’m looking to collaborate with flutter project and backends with flask with postgresql.
+- 📫 How to reach me mail at mninaniya499@gmail.com
+- 😄 Pronouns:he/him
+- ⚡ Fun fact: More than 80% of the world's data is unstructured, making it a challenge for data scientists and engineers to analyze effectively.
